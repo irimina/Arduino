@@ -1,5 +1,6 @@
 //3 buttons to control an RGB LED, click on each button to turn one led at a time
 //use Arduino's reset button to reset the colors 
+// sample schematic at https://circuits.io/circuits/4008863-arduino-buttons-and-rgb-led-code
 
 const int GreenLED = 8;
 const int BlueLED  = 9;
