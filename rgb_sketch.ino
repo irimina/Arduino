@@ -1,5 +1,6 @@
 /*
-Adafruit Arduino - Lesson 3. RGB LED
+Change the color of an RGB with a custom function. 
+Based on Adafruit Arduino - Lesson 3. RGB LED
 */
 int redPin = 11;
 int greenPin = 10;
